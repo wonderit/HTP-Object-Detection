@@ -22,9 +22,7 @@ _Total-YOLOv8s, Total-YOLOv8m, Total-YOLOv8l is in progress._
 | [PersonMale](https://hub.ultralytics.com/models/lBsj1qEmqUmVgf47gssJ)    | 640                   | **98.5**          | 84.7                 | 97.7      | 96.9   |
 | [PersonFemale](https://hub.ultralytics.com/models/VmvvwkqZq7ShyaWfIKN9)  | 640                   | **98.5**          | 84.7                 | 97.9      | 96.8   |
 | [Total-YOLOv8n](https://hub.ultralytics.com/models/JRzV3V15T2MWjq8oAP5T) | 640                   | **98.2**          | 87.0                 | 96.7      | 95.9   |
-| [Total-YOLOv8s](https://hub.ultralytics.com/models/AsGy4VyYXfo4d7zlI6it) | 640                   | **98.5**          | 88.7                 | 97.3      | 96.7   |
-| [Total-YOLOv8m](https://hub.ultralytics.com/models/c4NJ0r6F4gGXcrSnu80g) | 640                   | **98.7**          | 89.4                 | 97.4      | 97.1   |
-| [Total-YOLOv8l](https://hub.ultralytics.com/models/U1x2TxEJOYkBW4QlkDqI) | 640                   | **98.7**          | 89.7                 | 97.5      | 97.1   |
+| [Total-YOLOv8s](https://hub.ultralytics.com/models/AsGy4VyYXfo4d7zlI6it) | 640                   | **98.6**          | 89.2                 | 97.5      | 97.0   |
 
 #### Example - Total-YOLOv8n
 

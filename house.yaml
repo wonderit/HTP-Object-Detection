@@ -1,0 +1,35 @@
+# Ultralytics YOLO 🚀, AGPL-3.0 license
+# COCO8 dataset (first 8 images from COCO train2017) by Ultralytics for HUB https://hub.ultralytics.com
+# Example usage: yolo train data=coco8.yaml
+# parent
+# ├── ultralytics
+# └── datasets
+#     └── coco8  ← downloads here (1 MB)
+
+
+# Train/val/test sets as 1) dir: path/to/imgs, 2) file: path/to/imgs.txt, or 3) list: [path/to/imgs1, path/to/imgs2, ..]
+path:  # dataset root dir (leave empty for HUB)
+train: images/train  # train images (relative to 'path') 4 images
+val: images/val  # val images (relative to 'path') 4 images
+test:  # test images (optional)
+
+# Classes
+names:
+  0: 집전체
+  1: 지붕
+  2: 집벽
+  3: 문
+  4: 창문
+  5: 굴뚝
+  6: 연기
+  7: 울타리
+  8: 길
+  9: 연못
+  10: 산
+  11: 나무
+  12: 꽃
+  13: 잔디
+  14: 태양
+
+# Download script/URL (optional)
+download:

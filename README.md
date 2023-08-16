@@ -12,7 +12,8 @@ https://github.com/ultralytics/hub#1-create-a-dataset
 ### Result
 
 Detection model based on YOLOv8n, pretrained on COCO 2017 dataset.
-TOTAL-YOLOv8s, m, l is in progress.
+
+_Total-YOLOv8s, Total-YOLOv8m, Total-YOLOv8l is in progress._
 
 | Model                                                                    | size<br><sup>(pixels) | mAP<sup>val<br>50 | mAP<sup>val<br>50-95 | Precision | Recall |
 |--------------------------------------------------------------------------| --------------------- |-------------------|----------------------|-----------|--------| 
